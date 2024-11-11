@@ -20,34 +20,36 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 
 ## Technical Skills
 
+
 #### **Programming Languages**
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![Java](https://img.icons8.com/ios-filled/50/000000/java.png) **Java**
-- ![Scala](https://img.icons8.com/ios-filled/50/000000/scala.png) **Scala**
-- ![Shell Scripting](https://img.icons8.com/ios-filled/50/000000/terminal.png) **Shell Scripting**
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**
+- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java**
+- ![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg) **Scala**
+- ![Shell Scripting](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) **Shell Scripting**
 
 #### **Cloud Platforms**
-- ![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) **AWS**
-- ![GCP](https://img.icons8.com/ios-filled/50/000000/google-cloud.png) **GCP**
-- ![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png) **Azure**
+- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS**
+- ![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) **GCP**
+- ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) **Azure**
 
 #### **Big Data Technologies**
-- ![Hadoop](https://img.icons8.com/ios-filled/50/000000/hadoop.png) **Hadoop**
-- ![Apache Spark](https://img.icons8.com/ios-filled/50/000000/apache-spark.png) **Apache Spark**
-- ![Kafka](https://img.icons8.com/ios-filled/50/000000/apache-kafka.png) **Kafka**
+- ![Hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg) **Hadoop**
+- ![Apache Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg) **Apache Spark**
+- ![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg) **Kafka**
 
 #### **Databases**
-- ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) **MySQL**
-- ![PostgreSQL](https://img.icons8.com/ios-filled/50/000000/postgresql.png) **PostgreSQL**
-- ![MongoDB](https://img.icons8.com/ios-filled/50/000000/mongodb.png) **MongoDB**
+- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **MySQL**
+- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **MongoDB**
 
 #### **Data Visualization Tools**
-- ![Power BI](https://img.icons8.com/ios-filled/50/000000/power-bi.png) **Power BI**
-- ![Tableau](https://img.icons8.com/ios-filled/50/000000/tableau.png) **Tableau**
+- ![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg) **Power BI**
+- ![Tableau](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg) **Tableau**
 
 #### **Version Control & IDEs**
-- ![Git](https://img.icons8.com/ios-filled/50/000000/git.png) **Git**
-- ![VS Code](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png) **VS Code**
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
+- ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg) **VS Code**
+
 
 
 
