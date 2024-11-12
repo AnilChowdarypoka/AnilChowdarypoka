@@ -28,8 +28,8 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 **AWS** | **GCP** | **Azure**
 
 #### **Big Data Technologies**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-plain.svg" width="30" />  
-**Hadoop** | **Apache Spark** | **Kafka**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqoop/sqoop-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flume/flume-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/presto/presto-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-drill/apache-drill-original.svg" width="30" />  
+**Hadoop** | **Apache Spark** | **Kafka** | **Hive** | **Sqoop** | **Flume** | **Presto** | **Apache Drill**
 
 #### **Databases**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" />  
