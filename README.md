@@ -21,27 +21,27 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 ## Technical Skills
 
 #### **Programming Languages**
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg) ![Shell Scripting](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg) ![Scala](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain.svg) ![Shell Scripting](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg)  
 **Python** | **Java** | **Scala** | **Shell Scripting**
 
 #### **Cloud Platforms**
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) ![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg) ![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg) ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg)  
 **AWS** | **GCP** | **Azure**
 
 #### **Big Data Technologies**
-![Hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg) ![Apache Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg) ![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg)  
+![Hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-plain.svg) ![Apache Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-plain.svg) ![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-plain.svg)  
 **Hadoop** | **Apache Spark** | **Kafka**
 
 #### **Databases**
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg)  
 **MySQL** | **PostgreSQL** | **MongoDB**
 
 #### **Data Visualization Tools**
-![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg) ![Tableau](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg)  
+![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg) ![Tableau](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg)  
 **Power BI** | **Tableau**
 
 #### **Version Control & IDEs**
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg)  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg) ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg)  
 **Git** | **VS Code**
 
 
