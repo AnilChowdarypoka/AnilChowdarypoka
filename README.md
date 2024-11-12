@@ -20,40 +20,30 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 
 
 #### **Programming Languages**
-<img src="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicon.min.css" width="30" />
-<i class="devicon-python-plain"></i>
-<i class="devicon-java-plain"></i>
-<i class="devicon-scala-plain"></i>
-<i class="devicon-bash-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="30" />  
 **Python** | **Java** | **Scala** | **Shell Scripting**
 
 #### **Cloud Platforms**
-<i class="devicon-amazonwebservices-original"></i>
-<i class="devicon-googlecloud-plain"></i>
-<i class="devicon-azure-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30" />  
 **AWS** | **GCP** | **Azure**
 
 #### **Big Data Technologies**
-<i class="devicon-hadoop-plain"></i>
-<i class="devicon-apachespark-plain"></i>
-<i class="devicon-kafka-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-plain.svg" width="30" />  
 **Hadoop** | **Apache Spark** | **Kafka**
 
 #### **Databases**
-<i class="devicon-mysql-plain"></i>
-<i class="devicon-postgresql-plain"></i>
-<i class="devicon-mongodb-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="30" />  
 **MySQL** | **PostgreSQL** | **MongoDB**
 
 #### **Data Visualization Tools**
-<i class="devicon-powerbi-plain"></i>
-<i class="devicon-tableau-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-plain.svg" width="30" />  
 **Power BI** | **Tableau**
 
 #### **Version Control & IDEs**
-<i class="devicon-git-plain"></i>
-<i class="devicon-visualstudio-plain"></i>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" />  
 **Git** | **VS Code**
+
+---
 
 
 
