@@ -35,6 +35,7 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqoop/sqoop-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flume/flume-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/presto/presto-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-drill/apache-drill-original.svg" width="30" />  
 **Hadoop** | **Apache Spark** | **Kafka** | **Hive** | **Sqoop** | **Flume** | **Presto** | **Apache Drill**
 
+
 #### **Databases**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />  
 **MySQL** | **PostgreSQL** | **MongoDB**
