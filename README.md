@@ -20,40 +20,40 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 
 
 #### **Programming Languages**
-<img src="https://simpleicons.org/icons/python.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/java.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/scala.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/bash.svg" width="30" />  
+<img src="https://cdnjs.cloudflare.com/ajax/libs/devicons/2.2.0/devicon.min.css" width="30" />
+<i class="devicon-python-plain"></i>
+<i class="devicon-java-plain"></i>
+<i class="devicon-scala-plain"></i>
+<i class="devicon-bash-plain"></i>  
 **Python** | **Java** | **Scala** | **Shell Scripting**
 
 #### **Cloud Platforms**
-<img src="https://simpleicons.org/icons/amazonaws.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/googlecloud.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/microsoftazure.svg" width="30" />  
+<i class="devicon-amazonwebservices-original"></i>
+<i class="devicon-googlecloud-plain"></i>
+<i class="devicon-azure-plain"></i>  
 **AWS** | **GCP** | **Azure**
 
 #### **Big Data Technologies**
-<img src="https://simpleicons.org/icons/hadoop.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/apachespark.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/apachekafka.svg" width="30" />  
+<i class="devicon-hadoop-plain"></i>
+<i class="devicon-apachespark-plain"></i>
+<i class="devicon-kafka-plain"></i>  
 **Hadoop** | **Apache Spark** | **Kafka**
 
 #### **Databases**
-<img src="https://simpleicons.org/icons/mysql.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/postgresql.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/mongodb.svg" width="30" />  
+<i class="devicon-mysql-plain"></i>
+<i class="devicon-postgresql-plain"></i>
+<i class="devicon-mongodb-plain"></i>  
 **MySQL** | **PostgreSQL** | **MongoDB**
 
 #### **Data Visualization Tools**
-<img src="https://simpleicons.org/icons/microsoftpowerbi.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/tableau.svg" width="30" />  
+<i class="devicon-powerbi-plain"></i>
+<i class="devicon-tableau-plain"></i>  
 **Power BI** | **Tableau**
 
 #### **Version Control & IDEs**
-<img src="https://simpleicons.org/icons/git.svg" width="30" /> 
-<img src="https://simpleicons.org/icons/visualstudio.svg" width="30" />  
+<i class="devicon-git-plain"></i>
+<i class="devicon-visualstudio-plain"></i>  
 **Git** | **VS Code**
-
 
 
 
