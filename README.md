@@ -29,20 +29,14 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 **Python** | **Java** | **Scala** | **Shell Scripting**
 
 #### **Cloud Platforms**
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/azure/azure-plain.svg" width="30" />  
-**AWS** | **GCP** | **Azure**
-
-#### **Big Data Technologies**
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hadoop/hadoop-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache-spark/apache-spark-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kafka/kafka-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hive/hive-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqoop/sqoop-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flume/flume-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/presto/presto-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache-drill/apache-drill-original.svg" width="30" />  
-**Hadoop** | **Apache Spark** | **Kafka** | **Hive** | **Sqoop** | **Flume** | **Presto** | **Apache Drill**
+ <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/azure/azure-plain.svg" width="30" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hadoop/hadoop-original.svg" width="30" /> <img 
 
 #### **Databases**
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="30" />  
 **MySQL** | **PostgreSQL** | **MongoDB**
 
-#### **Data Visualization Tools**
-<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/powerbi/powerbi-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tableau/tableau-original.svg" width="30" />  
-**Power BI** | **Tableau**
+
 
 #### **Version Control & IDEs**
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg" width="30" />  
