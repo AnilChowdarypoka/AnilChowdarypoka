@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="30" />  
 
 #### **Cloud Platforms**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30" />  
+<img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/amazonwebservices/amazonwebservices-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" width="30" />  
 
 #### **Big Data Technologies**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-plain.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-plain.svg" width="30" />  
