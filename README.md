@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with a passion for building scalable and efficient data pipelines and optimizing data workflows. 
 
+**Tech Titan Award Winner | AWS & Hadoop Expert | ETL Pipeline Architect | 30% Efficiency Boost in Data Processing**
+
+
 ## About Me
 
 - 🌱 **Currently learning**: Advanced data engineering concepts, real-time data streaming, and machine learning.
@@ -19,18 +22,7 @@ Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with
 ### Technical Skills
 
 
-
-# Venkata Annil Kumar Poka - Data Engineer
-
-## Technical Skills
-
-#### **Programming Languages**
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-plain.svg" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-plain.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scala/scala-plain.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bash/bash-plain.svg" width="30" />   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/googlecloud/googlecloud-plain.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/azure/azure-plain.svg" width="30" />  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hadoop/hadoop-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original.svg" width="30" />  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg" width="30" />  
-
-
-> "Striving for efficiency and innovation in every data solution."
-
----
 
 
 
