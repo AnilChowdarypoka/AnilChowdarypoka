@@ -39,7 +39,6 @@ Here are some of the projects I'm working on:
 
 Feel free to reach out to me for any collaboration opportunities or to discuss data engineering topics:
 
-- 📧 **Email**: pokavenkataanilkumar128@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/venkataanilkumarpoka/
+- 📧 **Email**: venkata.kumar517@gmail.com
 
 Thanks for stopping by! 🙌
