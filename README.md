@@ -39,6 +39,6 @@ Here are some of the projects I'm working on:
 
 Feel free to reach out to me for any collaboration opportunities or to discuss data engineering topics:
 
-- 📧 **Email**: venkata.kumar517@gmail.com
+- 📧 **Email**: venkataanilkunar.p17@gmail.com
 
 Thanks for stopping by! 🙌
