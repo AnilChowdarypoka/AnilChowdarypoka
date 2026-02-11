@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a **Data Engineer** with a passion for building scalable and efficient data pipelines and optimizing data workflows. 
 
-**Tech Titan Award Winner | AWS, Databricks  & Hadoop Expert | ETL Pipeline Architect 
+**Tech Titan Award Winner | AWS, Databricks  & Hadoop Expert | ETL Pipeline Architect** 
 
 
 ## About Me
