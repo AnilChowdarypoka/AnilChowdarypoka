@@ -1,8 +1,8 @@
 # Hi, I'm Anil! 👋
 
-Welcome to my GitHub! I'm a **Data Engineering student at Pace University** with a passion for building scalable and efficient data pipelines and optimizing data workflows. 
+Welcome to my GitHub! I'm a **Data Engineer** with a passion for building scalable and efficient data pipelines and optimizing data workflows. 
 
-**Tech Titan Award Winner | AWS & Hadoop Expert | ETL Pipeline Architect | 30% Efficiency Boost in Data Processing**
+**Tech Titan Award Winner | AWS, Databricks  & Hadoop Expert | ETL Pipeline Architect 
 
 
 ## About Me
@@ -39,6 +39,6 @@ Here are some of the projects I'm working on:
 
 Feel free to reach out to me for any collaboration opportunities or to discuss data engineering topics:
 
-- 📧 **Email**: venkataanilkumar.p17@gmail.com
+- 📧 **Email**: anil.poka@outlook.com
 
 Thanks for stopping by! 🙌
