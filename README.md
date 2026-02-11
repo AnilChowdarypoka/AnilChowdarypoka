@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a **Data Engineer** with a passion for building scalab
 - 👨‍💻 **Technical skills**: AWS, Hadoop, Python, Kafka, SQL, ETL processes, Data Pipeline Design.
 - 🏆 **Achievements**: 
   - **Tech Titan Award Winner** for my contributions to data engineering and innovation.
-  - 30% efficiency boost in data processing and real-time data pipeline optimization at **Go Digit**.
 - 🚀 **Current focus**: 
   - Data pipeline optimization and real-time data processing using **AWS Lambda** and **Kafka**.
   - Working on improving data workflows for cloud-native applications.
